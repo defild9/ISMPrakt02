@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.31702.278
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ISMPrakt02", "ISMPrakt02\ISMPrakt02.csproj", "{2CF34493-65F6-4D48-8395-F43E53BBE047}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "QuadraticEquation", "QuadraticEquation\QuadraticEquation.csproj", "{94C2B45A-1267-4474-BC18-CAD3F98A8581}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{2CF34493-65F6-4D48-8395-F43E53BBE047}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{2CF34493-65F6-4D48-8395-F43E53BBE047}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{2CF34493-65F6-4D48-8395-F43E53BBE047}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{2CF34493-65F6-4D48-8395-F43E53BBE047}.Release|Any CPU.Build.0 = Release|Any CPU
+		{94C2B45A-1267-4474-BC18-CAD3F98A8581}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{94C2B45A-1267-4474-BC18-CAD3F98A8581}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{94C2B45A-1267-4474-BC18-CAD3F98A8581}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{94C2B45A-1267-4474-BC18-CAD3F98A8581}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {EF00C564-96EE-4499-902D-09D9A386C142}
+	EndGlobalSection
+EndGlobal
